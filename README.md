@@ -1,4 +1,4 @@
-# CE3A Portfolio
+# Angel Gadiano Portfolio
 
 ## Name
 Angel Gadiano

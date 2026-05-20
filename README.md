@@ -1,16 +1,22 @@
-## Hi there 👋
+# CE3A Portfolio
 
-<!--
-**angelgadiano/angelgadiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name
+Angel Gadiano
 
-Here are some ideas to get you started:
+## Section
+CE3A
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Hello! I am Angel Gadiano, a CE3A student learning programming.
+
+## Portfolio Contents
+- Activities
+- Projects
+- Documentation
+- Screenshots
+
+## Goals
+- Improve my programming skills
+- Learn how to use GitHub properly
+- Build more projects in the future
+- Create a professional online portfolio

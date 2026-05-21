@@ -1,4 +1,4 @@
-# Angel Gadiano Portfolio
+# Angel Gadiano
 
 ## Name
 Angel Gadiano

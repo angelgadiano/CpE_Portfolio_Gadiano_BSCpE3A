@@ -24,4 +24,4 @@ Hello! I am Angel Gadiano, a CE3A student learning programming.
 
 ## GitHub Stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelgadiano&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelgadiano&show_icons=true&theme=tokyonight&cache_seconds=86400)

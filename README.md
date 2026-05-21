@@ -1,6 +1,4 @@
 
-# Angel Gadiano
-
 ## Name
 Angel Gadiano
 

@@ -21,7 +21,3 @@ Hello! I am Angel Gadiano, a CE3A student learning programming.
 - Learn how to use GitHub properly
 - Build more projects in the future
 - Create a professional online portfolio
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelgadiano&show_icons=true&theme=tokyonight&cache_seconds=86400)

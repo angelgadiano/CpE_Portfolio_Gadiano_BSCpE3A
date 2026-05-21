@@ -1,6 +1,3 @@
-## GitHub Stats
-
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelgadiano&show_icons=true&theme=tokyonight)
 
 # Angel Gadiano
 

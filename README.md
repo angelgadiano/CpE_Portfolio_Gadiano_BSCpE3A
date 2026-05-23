@@ -1,6 +1,7 @@
+## CpE_Portfolio_Gadiano_BSCpE3A
 
 ## Name
-CpE_Portfolio_Gadiano_BSCpE3A
+Angel G. Gadiano
 
 ## Section
 CE3A

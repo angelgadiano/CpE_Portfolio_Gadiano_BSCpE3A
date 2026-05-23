@@ -40,3 +40,45 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 - Build more projects in the future
 - Create a professional online portfolio
 
+---
+
+# Featured Projects 
+
+## 1. Simple Power Supply
+
+## Description
+This project is a simple regulated DC power supply built on a breadboard and PCB/perfboard using a 7812 voltage regulator. The circuit converts AC voltage from a transformer into a stable 12V DC output. Diodes are used for rectification, capacitors for filtering, and the voltage regulator provides a constant output voltage.
+
+The breadboard version is used for testing and prototyping, while the PCB/perfboard version provides a more permanent and reliable implementation.
+
+## Components Used
+
+• 7812 Voltage Regulator IC
+• 1N4007 Diodes (Rectifier)
+• Electrolytic Capacitors
+• 100µF / 50V
+• Large filter capacitors
+• Ceramic Capacitor (104 / 0.1µF)
+• Transformer (12V AC secondary)
+• Breadboard / PCB Perfboard
+• Jumper wires
+• Pin headers / connectors
+
+## Features
+- Converts AC to regulated DC
+- Provides stable 12V output
+- Ripple reduction using filter capacitors
+- Over-voltage handling through regulator
+- Simple and low-cost design
+- Suitable for beginner electronics projects
+- Can be implemented on breadboard or PCB
+
+## Technologies Used
+•Analog Electronics
+• Power Supply Regulation
+• Rectifier Circuit Design
+• Voltage Regulation using 7812 IC
+• Breadboard Prototyping
+• PCB/Perfboard Soldering
+• Capacitor Filtering Technique
+

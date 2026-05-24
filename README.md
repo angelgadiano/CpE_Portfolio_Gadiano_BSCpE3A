@@ -58,6 +58,12 @@ This project is a simple regulated DC power supply built on a breadboard and PCB
 
 The breadboard version is used for testing and prototyping, while the PCB/perfboard version provides a more permanent and reliable implementation.
 
+## Pictures
+
+![Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg Image](Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg)
+
+![Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg Image](Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg)
+
 ## Components Used
 
 • 7812 Voltage Regulator IC
@@ -91,20 +97,19 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 • PCB/Perfboard Soldering
 • Capacitor Filtering Technique
 
-## Pictures
-
-![Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg Image](Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg)
-
-![Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg Image](Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg)
-
 ---
-
 
 ## 2. Weather Watch: Disaster Preparedness App
  
 ## Description
  
  Weather Watch is a mobile application designed to provide real-time weather updates, early warnings, and essential information to help users prepare for and respond to natural hazards such as typhoons, floods, storms, and extreme weather events. It aims to increase community safety and resilience by delivering accurate forecasts, risk assessments, emergency guidelines, and local alerts tailored to the user’s location. The app serves as a practical tool for individuals, families, and local communities to make informed decisions and take timely action before, during, and after weather-related disasters.
+
+## Screenshots
+
+![Screenshot_20260523-221843.jpg](Screenshot_20260523-221843.jpg)
+
+![Screenshot_20260523-222003.jpg](Screenshot_20260523-222003.jpg)
   
 ## Components Used
  
@@ -187,9 +192,3 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Testing: Android Emulator, iOS Simulator, or real devices – to ensure app works correctly across devices.
 - Design: Figma or Adobe XD – for creating layouts and visual design.
 
-## Screenshots
-
-![Screenshot_20260523-221843.jpg](Screenshot_20260523-221843.jpg)
-
-![Screenshot_20260523-222003.jpg](Screenshot_20260523-222003.jpg)
- 

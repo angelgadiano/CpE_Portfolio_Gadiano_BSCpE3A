@@ -3,22 +3,27 @@
 ---
 
 ## Name
+
 Angel G. Gadiano
 
 ## Course 
+
 BSCpE 
 
 ## Section
+
 CE3A
 
 ---
 
 ## About Me
+
 Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSCpE) student from CE3A. I am currently learning programming, GitHub, and web development. I am interested in improving my technical skills, creating projects, and gaining more knowledge in technology and software development. This portfolio serves as a collection of my activities, documentation, and learning progress.
 
 ---
 
 ## Skills
+
 - Basic Programming
 - C++
 - Python
@@ -27,6 +32,7 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 ---
 
 ## Portfolio Contents
+
 - Activities
 - Projects
 - Documentation
@@ -35,6 +41,7 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 ---
 
 ## Goals
+
 - Improve my programming skills
 - Learn how to use GitHub properly
 - Build more projects in the future
@@ -65,6 +72,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 • Pin headers / connectors
 
 ## Features
+
 - Converts AC to regulated DC
 - Provides stable 12V output
 - Ripple reduction using filter capacitors
@@ -74,6 +82,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Can be implemented on breadboard or PCB
 
 ## Technologies Used
+
 •Analog Electronics
 • Power Supply Regulation
 • Rectifier Circuit Design
@@ -95,10 +104,8 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
  
 ## Description
  
-Weather Watch is a mobile application designed to provide real-time weather updates, early warnings, and essential information to help users prepare for and respond to natural hazards such as typhoons, floods, storms, and extreme weather events. It aims to increase community safety and resilience by delivering accurate forecasts, risk assessments, emergency guidelines, and local alerts tailored to the user’s location. The app serves as a practical tool for individuals, families, and local communities to make informed decisions and take timely action before, during, and after weather-related disasters.
- 
- 
- 
+ Weather Watch is a mobile application designed to provide real-time weather updates, early warnings, and essential information to help users prepare for and respond to natural hazards such as typhoons, floods, storms, and extreme weather events. It aims to increase community safety and resilience by delivering accurate forecasts, risk assessments, emergency guidelines, and local alerts tailored to the user’s location. The app serves as a practical tool for individuals, families, and local communities to make informed decisions and take timely action before, during, and after weather-related disasters.
+  
 ## Components Used
  
 ## 1. User Interface / Frontend
@@ -110,7 +117,6 @@ Weather Watch is a mobile application designed to provide real-time weather upda
 - Map & Location Module: Interactive map showing weather patterns, hazard zones, evacuation centers, and nearby emergency facilities.
 - Information & Guide Section: Step-by-step preparedness guides, emergency checklists, safety tips, and contact details for local authorities, rescue teams, and relief agencies.
 - Settings: Options to set location, notification preferences, language, and units of measurement.
-
  
 ## 2. Backend / Server Components
  
@@ -126,9 +132,8 @@ Weather Watch is a mobile application designed to provide real-time weather upda
 - Internet / Network Module: Connects to online weather servers and data sources.
 - Device Storage: Saves offline guides, saved locations, and cached data for use when connectivity is limited.
  
-
- 
 ## Key Features
+
  1. Real-Time Weather Updates- Current conditions: temperature, wind speed/direction, humidity, rainfall amount.
 - Hourly, daily, and weekly forecasts.
 - Weather maps and satellite imagery.
@@ -152,8 +157,6 @@ Weather Watch is a mobile application designed to provide real-time weather upda
 6. Offline Access- Important guides, checklists, and emergency contacts available even without internet connection.
 
 7. Report & Feedback- Option for users to report local conditions, damage, or hazards to help authorities and community.
- 
- 
  
 ## Technologies Used
  

@@ -28,6 +28,7 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 - C++
 - Python
 - Networking
+- Electronics & Circuit Design
 
 ---
 
@@ -192,3 +193,9 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Testing: Android Emulator, iOS Simulator, or real devices – to ensure app works correctly across devices.
 - Design: Figma or Adobe XD – for creating layouts and visual design.
 
+
+
+## Contact Information
+
+- GitHub: angelgadiano
+- Email: gadianoangel5@gmail.com

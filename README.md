@@ -184,4 +184,9 @@ Weather Watch is a mobile application designed to provide real-time weather upda
 - Testing: Android Emulator, iOS Simulator, or real devices – to ensure app works correctly across devices.
 - Design: Figma or Adobe XD – for creating layouts and visual design.
 
+## Screenshots
+
+![Screenshot_20260523-221843.jpg](Screenshot_20260523-221843.jpg)
+
+![Screenshot_20260523-222003.jpg](Screenshot_20260523-222003.jpg)
  

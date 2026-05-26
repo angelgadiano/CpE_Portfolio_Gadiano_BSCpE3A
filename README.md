@@ -5,7 +5,7 @@
 ## 📌 Personal Information
 
 👤 **Name:** Angel G. Gadiano  
-🎓 **Course & Section:** Bachelor of Science in Computer Engineering - BSCpE3A  
+🎓 **Course & Section:** Bachelor of Science in Computer Engineering - CE3A  
 
 ---
 

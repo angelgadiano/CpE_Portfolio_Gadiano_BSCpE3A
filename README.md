@@ -54,9 +54,9 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 
 ## 🖼️ Pictures
 
-![Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg Image](Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg)
+![images/Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg](images/Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg)
 
-![Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg Image](Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg)
+![images/Messenger_creation_6F62F9D2-E197-451E-B5DE-C79685210353~3.jpeg](images/Messenger_creation_6F62F9D2-E197-451E-B5DE-C79685210353~3.jpeg)
 
 ## ⚒️ Components Used
 
@@ -101,9 +101,9 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 
 ## 🖼️ Screenshots
 
-![Screenshot_20260523-221843.jpg](Screenshot_20260523-221843.jpg)
+![images/Screenshot_20260523-221843.jpg](images/Screenshot_20260523-221843.jpg)
 
-![Screenshot_20260523-222003.jpg](Screenshot_20260523-222003.jpg)
+![images/Screenshot_20260523-222003.jpg](images/Screenshot_20260523-222003.jpg)
   
 ## ⚒️ Components Used
  

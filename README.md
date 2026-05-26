@@ -2,27 +2,20 @@
 
 ---
 
-## Name
+## 📌 Personal Information
 
-Angel G. Gadiano
-
-## Course 
-
-BSCpE 
-
-## Section
-
-CE3A
+👤 **Name:** Angel G. Gadiano  
+🎓 **Course & Section:** Bachelor of Science in Computer Engineering - BSCpE3A  
 
 ---
 
-## About Me
+## 🙋🏻‍♀️ About Me
 
 Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSCpE) student from CE3A. I am currently learning programming, GitHub, and web development. I am interested in improving my technical skills, creating projects, and gaining more knowledge in technology and software development. This portfolio serves as a collection of my activities, documentation, and learning progress.
 
 ---
 
-## Skills
+## ⚒️ Skills
 
 - Basic Programming
 - C++
@@ -32,7 +25,7 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 
 ---
 
-## Portfolio Contents
+## 📂 Portfolio Contents
 
 - Activities
 - Projects
@@ -41,7 +34,7 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 
 ---
 
-## Goals
+## 🎯 Goals
 
 - Improve my programming skills
 - Learn how to use GitHub properly
@@ -50,22 +43,22 @@ Hello! I am Angel G. Gadiano, a Bachelor of Science in Computer Engineering (BSC
 
 ---
 
-# Featured Projects 
+# 🚀 Featured Projects 
 
-## 1. Simple Power Supply
+## 🔌 Simple Power Supply
 
-## Description
+## 📒 Description
 This project is a simple regulated DC power supply built on a breadboard and PCB/perfboard using a 7812 voltage regulator. The circuit converts AC voltage from a transformer into a stable 12V DC output. Diodes are used for rectification, capacitors for filtering, and the voltage regulator provides a constant output voltage.
 
 The breadboard version is used for testing and prototyping, while the PCB/perfboard version provides a more permanent and reliable implementation.
 
-## Pictures
+## 🖼️ Pictures
 
 ![Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg Image](Messenger_creation_55B9D508-E34D-450A-BC7E-41F5FBCFDF2B.jpeg)
 
 ![Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg Image](Messenger_creation_42310152-0C6E-4FAD-B4F6-50AA05B81A1A.jpeg)
 
-## Components Used
+## ⚒️ Components Used
 
 • 7812 Voltage Regulator IC
 • 1N4007 Diodes (Rectifier)
@@ -78,7 +71,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 • Jumper wires
 • Pin headers / connectors
 
-## Features
+## ✨ Features
 
 - Converts AC to regulated DC
 - Provides stable 12V output
@@ -88,7 +81,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Suitable for beginner electronics projects
 - Can be implemented on breadboard or PCB
 
-## Technologies Used
+## ⚒️ Technologies Used
 
 •Analog Electronics
 • Power Supply Regulation
@@ -100,19 +93,19 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 
 ---
 
-## 2. Weather Watch: Disaster Preparedness App
+## 🌦️ Weather Watch: Disaster Preparedness App
  
-## Description
+## 📒 Description
  
  Weather Watch is a mobile application designed to provide real-time weather updates, early warnings, and essential information to help users prepare for and respond to natural hazards such as typhoons, floods, storms, and extreme weather events. It aims to increase community safety and resilience by delivering accurate forecasts, risk assessments, emergency guidelines, and local alerts tailored to the user’s location. The app serves as a practical tool for individuals, families, and local communities to make informed decisions and take timely action before, during, and after weather-related disasters.
 
-## Screenshots
+## 🖼️ Screenshots
 
 ![Screenshot_20260523-221843.jpg](Screenshot_20260523-221843.jpg)
 
 ![Screenshot_20260523-222003.jpg](Screenshot_20260523-222003.jpg)
   
-## Components Used
+## ⚒️ Components Used
  
 ## 1. User Interface / Frontend
  
@@ -138,7 +131,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Internet / Network Module: Connects to online weather servers and data sources.
 - Device Storage: Saves offline guides, saved locations, and cached data for use when connectivity is limited.
  
-## Key Features
+## ✨ Key Features
 
  1. Real-Time Weather Updates- Current conditions: temperature, wind speed/direction, humidity, rainfall amount.
 - Hourly, daily, and weekly forecasts.
@@ -164,7 +157,7 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 
 7. Report & Feedback- Option for users to report local conditions, damage, or hazards to help authorities and community.
  
-## Technologies Used
+## ⚒️ Technologies Used
  
 1. Frontend / App Development
  
@@ -195,7 +188,13 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 
 
 
-## Contact Information
+# 📬 Contact Information
 
-- GitHub: angelgadiano
-- Email: gadianoangel5@gmail.com
+💻 GitHub: angelgadiano                
+📧 Email: gadianoangel5@gmail.com
+
+---
+
+<p align="center">
+  ✨ Thank you for visiting my portfolio ✨
+</p>

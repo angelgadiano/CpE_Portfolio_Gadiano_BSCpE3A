@@ -186,6 +186,24 @@ The breadboard version is used for testing and prototyping, while the PCB/perfbo
 - Testing: Android Emulator, iOS Simulator, or real devices – to ensure app works correctly across devices.
 - Design: Figma or Adobe XD – for creating layouts and visual design.
 
+---
+
+## ⌨️ Keyboard Model
+
+## 📒 Description
+Keyboard Model is a 3D design activity that focuses on creating a digital model of a computer keyboard using 3D modeling software. 
+
+## 🖼️ Screenshot 
+![Screenshots/Screenshot_20240904-204718~3.jpg](Screenshots/Screenshot_20240904-204718~3.jpg)
+
+## ⚒️ Components Used
+- Cellphone 
+- Onshape App
+
+## ✨ Features
+- Realistic keyboard design
+ 
+---
 
 
 # 📬 Contact Information
